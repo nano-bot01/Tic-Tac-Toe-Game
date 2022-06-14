@@ -1,6 +1,7 @@
 # Tic Tac Toe Game
 
-> A Console based Application of Tic Tac Toe game(multiuser). 
+> A Console based Application of Tic Tac Toe game(multiuser) which runs on user input uses keyboard to play. The game supports two player at a time and they play consecutively after each other until one of them wins or game results in draw. 
+> 
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
 ## PLAYING THE GAME
