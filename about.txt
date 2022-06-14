@@ -1,0 +1,4 @@
+Introduction
+
+this is a basic console based Tic-Tac_Toe game which is built in C++ language which uses some basic function, array concept and loop in c++
+How to use
