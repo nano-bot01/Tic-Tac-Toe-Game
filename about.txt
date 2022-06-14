@@ -1,4 +1,27 @@
-Introduction
+Tic Tac Toe Game
 
-this is a basic console based Tic-Tac_Toe game which is built in C++ language which uses some basic function, array concept and loop in c++
-How to use
+ A Console based Application of Tic Tac Toe game(multiuser). 
+
+ PLAYING THE GAME
+  Here are few steps to play the game and win.**
+     After running the code an exe file would be created and a console will be seen. 
+ 
+   For starting the game `Player one` has to map the numbers in boxes in lower matrix and with reference to that matrix player has to type the number of box in which he want to draw `'O' or 'X'` 
+ 
+  After this `Player two` will do the same thing to play the game.
+ 
+  The player will `WIN` who will mark three continous same marks in the given matrix first and a banner with winner tag will be shown up on console. 
+
+ 
+  If no player will be able to mark the same pattern line then game will be draw. and program will ask user to play again or not by taking a choice from user: 
+  1. If user click `'Y' OR 'y'` then the game will start again from beginning.
+  2. Else the Game will be END.
+
+ 
+ OVERVIEW
+  this is a complete game.
+  checks for invalid number, letters and operators.
+  may start again if game is draw.
+  interactive, easy to use and play
+  No GUI Available
+
